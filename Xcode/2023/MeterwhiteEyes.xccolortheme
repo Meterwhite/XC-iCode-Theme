@@ -101,7 +101,7 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0 0 0 1</string>
+		<string>0.0980388 0.0980417 0.0980401 1</string>
 		<key>xcode.syntax.character</key>
 		<string>0 0 0.998199 1</string>
 		<key>xcode.syntax.comment</key>
@@ -141,7 +141,7 @@
 		<key>xcode.syntax.keyword</key>
 		<string>0.0798699 0.408503 0.998374 1</string>
 		<key>xcode.syntax.mark</key>
-		<string>0 0 0 1</string>
+		<string>0.438519 0.444831 0.444579 1</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>0.0666667 0.54902 1 1</string>
 		<key>xcode.syntax.number</key>
@@ -159,7 +159,7 @@
 		<key>xcode.syntax.regex.number</key>
 		<string>0 0 0.998199 1</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>0 0 0 1</string>
+		<string>0.0980388 0.0980417 0.0980401 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.687128 0 0.0294883 1</string>
 		<key>xcode.syntax.url</key>
@@ -208,7 +208,7 @@
 		<key>xcode.syntax.keyword</key>
 		<string>Hack-Bold - 18.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>Hack-Regular - 18.0</string>
+		<string>Hack-Bold - 18.0</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>Hack-Regular - 18.0</string>
 		<key>xcode.syntax.number</key>
