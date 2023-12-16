@@ -45,7 +45,7 @@
 <br><br><br><br>
 </p> -->
 
-![Swift icon](https://raw.githubusercontent.com/Meterwhite/XCFruitSea/main/Assets/InSwiftCode.png)
+![Swift icon](https://raw.githubusercontent.com/Meterwhite/XCFruitSea/main/Assets/InSwiftCode@2x.png)
 
 - This is an xcode theme that gives you a fruity feeling and protects your vision.
 - You need to copy the xccolortheme file to the path “~/Library/Developer/Xcode/UserData/FontAndColorThemes”.
@@ -79,4 +79,4 @@
 </table>
  -->
 
-![Swift icon](https://raw.githubusercontent.com/Meterwhite/XCFruitSea/main/Assets/ItemList.png)
+![Swift icon](https://raw.githubusercontent.com/Meterwhite/XCFruitSea/main/Assets/ItemList@2x.png)
